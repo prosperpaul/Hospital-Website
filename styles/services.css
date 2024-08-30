@@ -50,7 +50,7 @@ body {
   background: #486aef;
 }
 .services {
-  background-image: url(images/image\ 8.png);
+  background-image: url("/images/image\ 8.png");
   background-repeat: no-repeat;
 }
 .services2 {

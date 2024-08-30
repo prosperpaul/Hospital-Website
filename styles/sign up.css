@@ -1,0 +1,61 @@
+.log {
+  background-image: url("/images/Logo.png");
+  background-repeat: no-repeat;
+}
+.sign-text {
+  color: rgba(54, 54, 54, 1);
+  font-size: 32px;
+}
+.sign-info {
+  display: flex;
+  position: absolute;
+  left: 50%;
+  top: 80%;
+  transform: translate(-50%, -40%);
+}
+.sign-info2 {
+  margin-right: 12rem;
+}
+.log-img {
+  margin-left: 10rem;
+}
+.sign-details {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  color: rgba(54, 54, 54, 1);
+}
+.sign-input {
+  padding: 0.8rem 9rem;
+  background-color: whitesmoke;
+  border: none;
+}
+.id {
+  display: flex;
+  gap: 1rem;
+}
+.sign-input1 {
+  padding: 7px;
+  background-color: whitesmoke;
+  border: none;
+}
+.sign-input2 {
+  padding: 0.5rem 2.7rem;
+  background-color: whitesmoke;
+  border: none;
+}
+.sign-btn {
+  padding: 0.8rem 10rem;
+  background-color: rgba(72, 106, 239, 1);
+  box-shadow: 0px 10px 32px 0px rgba(65, 84, 241, 0.15);
+  border: none;
+  color: white;
+  margin-top: 2rem;
+}
+h5 {
+  margin-top: 2rem;
+  text-align: center;
+}
+span {
+  margin-left: 2rem;
+  color: rgb(74, 74, 242);
+}
